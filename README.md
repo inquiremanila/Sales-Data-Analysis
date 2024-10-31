@@ -27,7 +27,7 @@ Key Analyses
 1. Sales trends over time
 2. Top-Selling products and categories
 3. Customer Demographics by country
-4. Pricing and discounts analysis
+4. Pricing analysis
 
 Data Cleaning and Adjustments
 
